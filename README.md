@@ -1,6 +1,6 @@
 # AngularBlog
 
-Este projeto foi gerado com [Angular CLI](https://github.com/jardeljj/blog-estudos) versão 14.1.2.
+Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) versão 14.1.2.
 
 ## Servidor de desenvolvimento
 
